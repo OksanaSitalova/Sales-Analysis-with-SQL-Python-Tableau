@@ -5,7 +5,7 @@ This project presents a full-cycle analysis of an online furniture store's perfo
 ---
 
 ## Live Dashboard
-
+![Dashboard](Dashboard_s_a.png)
 👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/oksana.sitalova/viz/Project_17484593647600/Dashboard1)
 
 ---
