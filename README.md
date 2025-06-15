@@ -35,7 +35,7 @@ This project presents a full-cycle analysis of an online furniture store's perfo
 ## Key Metrics & KPIs
 
 - **Conversion Rate**: 9.59%
-- **Total Revenue**: $953.30K
+- **Total Revenue**: $31,97M
 - **Average Order Value**: ~$954
 - **Total Sessions**: 349,545
 - **Purchases**: 33,538
